@@ -2,7 +2,8 @@
 ## 概要
 Reactの開発環境を構築するためのスクリプトです。  
 以下のページの手順を自動化しています。ただし、firebaseの設定は省いています。  
-[React×Firebaseでちゃんと開発するときの環境構築手順と解説](https://zenn.dev/tentel/articles/488dd8765fb059)
+[React×Firebaseでちゃんと開発するときの環境構築手順と解説](https://zenn.dev/tentel/articles/488dd8765fb059)  
+途中でいろいろ聞かれる選択肢はほぼデフォルト(Enterキー)ですが、一部typescriptを選択しないといけないような箇所もありますので理解しながら選択してください。
 
 ## 使い方
 ```bash
